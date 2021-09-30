@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<ew-language date="2020/05/19" version="4.0.0" id="en" name="English" desc="English" author="e.World Technology Ltd.">
+	<!-- Do not translate '{{s}}' in the values -->
+	<global>
+		<phrase id="ACCESS_DENIED" value="Access Denied"/>
+		<phrase id="ACCOUNT" value="Account"/>
+		<phrase id="ADD" value="Add"/>
+		<phrase id="ADD_BUTTON" value="Add"/>
+		<phrase id="ADD_OPTION_TEXT" value="Do you want to add a new option?"/>
+		<phrase id="BACK_BUTTON" value=""/><!-- No text by default -->
+		<phrase id="CAMERA" value="Camera"/>
+		<phrase id="CANCEL_BUTTON" value="Cancel"/>
+		<phrase id="CARDS_TITLE" value="Social"/>
+		<phrase id="CLEAR_BUTTON" value="Clear"/>
+		<phrase id="CLOSE" value="Close"/>
+		<phrase id="CONFIRM_PASSWORD" value="Confirm Password"/>
+		<phrase id="COPY" value="Copy"/>
+		<phrase id="DARK_MODE" value="Dark mode"/>
+		<phrase id="DEBUG" value="Debug"/>
+		<phrase id="DELETE_BUTTON" value="Delete"/>
+		<phrase id="DELETE_HEADER" value="Delete?"/>
+		<phrase id="DETAILS" value="Details"/>
+		<phrase id="DONE_BUTTON" value="Done"/>
+		<phrase id="DRAG_FILES" value="Drag and drop file(s) or click here"/>
+		<phrase id="EDIT" value="Edit"/>
+		<phrase id="EDIT_BUTTON" value="Save"/>
+		<phrase id="EMAIL" value="Email"/>
+		<phrase id="ENTER_PASSWORD" value="Please enter password"/>
+		<phrase id="ENTER_CONFIRM_PASSWORD" value="Please enter confirm password"/>
+		<phrase id="ENTER_REQUIRED_FIELD" value="Please enter required field - {{s}}"/>
+		<phrase id="ENTER_USERNAME" value="Please enter username"/>
+		<phrase id="ERROR" value="Error"/>
+		<phrase id="EXIT" value="Press back button again to exit"/>
+		<phrase id="EXPIRED" value="Please sign in again"/>
+		<phrase id="FAILED_TO_ADD" value="Failed to add record"/>
+		<phrase id="FAILED_TO_DELETE" value="Failed to delete record"/>
+		<phrase id="FAILED_TO_EDIT" value="Failed to edit record"/>
+		<phrase id="FILE" value="File"/>
+		<phrase id="FONT_SIZE" value="Font size"/>
+		<phrase id="GALLERY" value="Gallery"/>
+		<phrase id="IMAGE_SOURCE" value="Select image source"/>
+		<phrase id="INCOMPATIBLE_API" value="The server API (v{{s}}) is not compatible with this app."/>
+		<phrase id="INCORRECT_CREDIT_CARD" value="Incorrect credit card number"/>
+		<phrase id="INCORRECT_DATE" value="Incorrect date ({{s}})"/>
+		<phrase id="INCORRECT_DATE_YMD" value="Incorrect date (yyyy{{s}}mm{{s}}dd)"/>
+		<phrase id="INCORRECT_DATE_MDY" value="Incorrect date (mm{{s}}dd{{s}}yyyy)"/>
+		<phrase id="INCORRECT_DATE_DMY" value="Incorrect date (dd{{s}}mm{{s}}yyyy)"/>
+		<phrase id="INCORRECT_SHORT_DATE_YMD" value="Incorrect date (yy{{s}}mm{{s}}dd)"/>
+		<phrase id="INCORRECT_SHORT_DATE_MDY" value="Incorrect date (mm{{s}}dd{{s}}yy)"/>
+		<phrase id="INCORRECT_SHORT_DATE_DMY" value="Incorrect date (dd{{s}}mm{{s}}yy)"/>
+		<phrase id="INCORRECT_EMAIL" value="Incorrect email"/>
+		<phrase id="INCORRECT_FIELD" value="Incorrect format"/>
+		<phrase id="INCORRECT_FLOAT" value="Incorrect floating point number"/>
+		<phrase id="INCORRECT_GUID" value="Incorrect GUID"/>
+		<phrase id="INCORRECT_INTEGER" value="Incorrect integer"/>
+		<phrase id="INCORRECT_MAX" value="Number must be smaller than or equal to {{s}}"/>
+		<phrase id="INCORRECT_MIN" value="Number must be larger than or equal to {{s}}"/>
+		<phrase id="INCORRECT_PATTERN" value="Incorrect pattern ({{s}})"/>
+		<phrase id="INCORRECT_PHONE" value="Incorrect phone number"/>
+		<phrase id="INCORRECT_REGEXP" value="Regular expression not matched"/>
+		<phrase id="INCORRECT_SSN" value="Incorrect social security number"/>
+		<phrase id="INCORRECT_TIME" value="Incorrect time (hh{{s}}mm({{s}}ss))"/>
+		<phrase id="INCORRECT_ZIP" value="Incorrect ZIP code"/>
+		<phrase id="INFORMATION" value="Information"/>
+		<phrase id="INVALID_PRIMARY_KEY" value="Invalid primary key"/>
+		<phrase id="LANGUAGE" value="Language"/>
+		<phrase id="LOADING" value="Loading..."/>
+		<phrase id="LOADING_MORE" value="Loading more..."/>
+		<phrase id="LOGIN" value="Sign in"/>
+		<phrase id="LOGIN_TITLE" value="Sign in"/>
+		<phrase id="LOGIN_ERROR" value="Unable to sign in. Please check your account information and try again."/>
+		<phrase id="LOGIN_BUTTON" value="Sign in"/>
+		<phrase id="LOGOUT" value="Sign out"/>
+		<phrase id="MAP_TITLE" value="Map"/>
+		<phrase id="MISMATCH_PASSWORD" value="Mismatch Password"/>
+		<phrase id="NAME" value="Name"/>
+		<phrase id="MENU" value="Menu"/>
+		<phrase id="NO_RECORDS" value="No records"/>
+		<phrase id="OK_BUTTON" value="OK"/>
+		<phrase id="OPTION" value="Option"/>
+		<phrase id="PASSWORD" value="Password"/>
+		<phrase id="PASSWORD_PLACEHOLDER" value="Password"/>
+		<phrase id="PASSWORD_REQUIRED" value="Password is required"/>
+		<phrase id="PULL_TO_REFRESH" value="Pull to refresh"/>
+		<phrase id="READ_FILE_FAILURE" value="Failed to read file"/>
+		<phrase id="REFRESHING" value="Refreshing..."/>
+		<phrase id="SEARCH_FAIL_TEXT" value="No items found."/>
+		<phrase id="SEARCH_TITLE" value="Search"/>
+		<phrase id="SEARCH_PLACEHOLDER" value="Search"/>
+		<phrase id="SERVER_ERROR" value="Server error"/>
+		<phrase id="SETTINGS_TITLE" value="Settings"/>
+		<phrase id="SIGNUP" value="Sign up"/>
+		<phrase id="SIGNUP_TITLE" value="Sign up"/>
+		<phrase id="SIGNUP_ERROR" value="Unable to create account. Please check your account information and try again."/>
+		<phrase id="SIGNUP_BUTTON" value="Create"/>
+		<phrase id="SIGNUP_SUCCESS" value="Account created. You may login now."/>
+		<phrase id="SORT" value="Sort"/>
+		<phrase id="STATUS" value="Status:"/>
+		<phrase id="SUCCESS" value="Success"/>
+		<phrase id="SUPPORT" value="Support"/>
+		<phrase id="TIME_AM" value="AM"/>
+		<phrase id="TIME_PM" value="PM"/>
+		<phrase id="UNKNOWN_ERROR" value="Unknown error"/>
+		<phrase id="UPDATE_AVAILABLE" value="Update available"/>
+		<phrase id="UPLOAD_FILE_SIZE_ERROR" value="Maximum file size ({{s}} bytes) exceeded"/>
+		<phrase id="UPLOAD_FILE_TYPE_ERROR" value="File type ({{s}}) not allowed"/>
+		<phrase id="UPLOAD_MAX_COUNT_ERROR" value="Maximum number of files ({{s}}) exceeded"/>
+		<phrase id="USERNAME" value="Username"/>
+		<phrase id="USERNAME_PLACEHOLDER" value="Username"/>
+		<phrase id="USERNAME_REQUIRED" value="Username is required"/>
+		<phrase id="UNAUTHENTICATED" value="Please sign in"/>
+		<phrase id="UNAUTHORIZED" value="Unauthorized access"/>
+		<phrase id="VALIDATION_ERROR" value="There are some errors, please check error messages under each field."/>
+		<phrase id="WELCOME_TITLE" value="Welcome"/>
+		<phrase id="WELCOME_INTRO" value="Welcome"/>
+		<phrase id="WARNING" value="Warning"/>
+		<!-- PHP API -->
+		<phrase id="DupIndex" value="Duplicate value '%v' for unique index '%f'"/>
+		<phrase id="DupKey" value="Duplicate primary key: '%f'"/>
+		<phrase id="InvalidUidPwd" value="Incorrect user name or password"/>
+		<phrase id="NoPermission" value="You do not have permission to access the page."/>
+		<phrase id="NoAddPermission" value="You do not have permission to add record."/>
+		<phrase id="NoDeletePermission" value="You do not have permission to delete the record."/>
+		<phrase id="NoEditPermission" value="You do not have permission to edit the record."/>
+		<phrase id="PasswordMask" value="********"/>
+		<phrase id="UploadErrMsg1" value="The uploaded file exceeds the upload_max_filesize directive in php.ini"/>
+		<phrase id="UploadErrMsg2" value="The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form"/>
+		<phrase id="UploadErrMsg3" value="The uploaded file was only partially uploaded"/>
+		<phrase id="UploadErrMsg4" value="No file was uploaded"/>
+		<phrase id="UploadErrMsg6" value="Missing a temporary folder"/>
+		<phrase id="UploadErrMsg7" value="Failed to write file to disk"/>
+		<phrase id="UploadErrMsg8" value="A PHP extension stopped the file upload"/>
+		<phrase id="UploadErrMsgMaxFileSize" value="File is too big"/>
+		<phrase id="UploadErrMsgAcceptFileTypes" value="File type not allowed"/>
+		<phrase id="UploadErrMsgMaxNumberOfFiles" value="Maximum number of files exceeded"/>
+		<phrase id="UserAdministrator" value="Administrator"/>
+		<phrase id="UserAnonymous" value="Anonymous"/>
+		<phrase id="UserDefault" value="Default"/>
+	</global>
+</ew-language>
